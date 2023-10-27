@@ -164,12 +164,12 @@
 		{ "predicate": { "custom_model_data": 1405 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/gold/evil" },
 
 		{ "predicate": { "custom_model_data": 1420 }, "model": "ssbrc:fighters/samus/skins/default" },
-		{ "predicate": { "custom_model_data": 1421 }, "model": "ssbrc:fighters/samus/items/default/power_beam" },
-		{ "predicate": { "custom_model_data": 1422 }, "model": "ssbrc:fighters/samus/items/default/wave_beam" },
-		{ "predicate": { "custom_model_data": 1423 }, "model": "ssbrc:fighters/samus/items/default/plasma_beam" },
-		{ "predicate": { "custom_model_data": 1424 }, "model": "ssbrc:fighters/samus/items/gold/power_beam" },
-		{ "predicate": { "custom_model_data": 1425 }, "model": "ssbrc:fighters/samus/items/gold/wave_beam" },
-		{ "predicate": { "custom_model_data": 1426 }, "model": "ssbrc:fighters/samus/items/gold/plasma_beam" },
+		{ "predicate": { "custom_model_data": 1421 }, "model": "ssbrc:fighters/samus/items/arm_cannon/power_beam/default" },
+		{ "predicate": { "custom_model_data": 1422 }, "model": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/default" },
+		{ "predicate": { "custom_model_data": 1423 }, "model": "ssbrc:fighters/samus/items/arm_cannon/plasma_beam/default" },
+		{ "predicate": { "custom_model_data": 1424 }, "model": "ssbrc:fighters/samus/items/arm_cannon/power_beam/gold" },
+		{ "predicate": { "custom_model_data": 1425 }, "model": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/gold" },
+		{ "predicate": { "custom_model_data": 1426 }, "model": "ssbrc:fighters/samus/items/arm_cannon/plasma_beam/gold" },
 
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:fighters/snake/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:fighters/snake/items/psg1/default" },
