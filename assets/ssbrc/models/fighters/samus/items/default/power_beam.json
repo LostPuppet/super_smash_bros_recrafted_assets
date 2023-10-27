@@ -1,7 +1,0 @@
-{
-	"parent": "ssbrc:fighters/samus/items/power_parent",
-	"textures": {
-		"body": "ssbrc:fighters/samus/items/arm_cannon/default/power_beam/body",
-		"energy": "ssbrc:fighters/samus/items/arm_cannon/default/power_beam/energy"
-	}
-}
