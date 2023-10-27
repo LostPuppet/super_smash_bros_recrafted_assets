@@ -452,7 +452,6 @@
 			"name": "power_beam",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "body",

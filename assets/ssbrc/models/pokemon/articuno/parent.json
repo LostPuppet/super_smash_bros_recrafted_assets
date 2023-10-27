@@ -2276,7 +2276,6 @@
 			"name": "articuno",
 			"origin": [8, 0, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "leg",
@@ -2333,14 +2332,12 @@
 							"name": "mouth",
 							"origin": [8, -4.25, 7.625],
 							"color": 0,
-							"nbt": "{}",
 							"children": [137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149]
 						},
 						{
 							"name": "big_fethers",
 							"origin": [8, -6, 8],
 							"color": 0,
-							"nbt": "{}",
 							"children": [
 								{
 									"name": "big_fether",
