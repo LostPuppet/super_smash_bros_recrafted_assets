@@ -239,6 +239,7 @@
 		{ "predicate": { "custom_model_data": 1842 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/default" },
 		{ "predicate": { "custom_model_data": 1843 }, "model": "ssbrc:fighters/alucard/items/holy_water/gold" },
 		{ "predicate": { "custom_model_data": 1844 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/gold" },
+		{ "predicate": { "custom_model_data": 1845 }, "model": "ssbrc:fighters/alucard/items/blood_metamorphosis/disabled" },
 
 		{ "predicate": { "custom_model_data": 1860 }, "model": "ssbrc:fighters/giegue/skins/default" },
 		{ "predicate": { "custom_model_data": 1861 }, "model": "ssbrc:fighters/giegue/items/pk_freeze" },
