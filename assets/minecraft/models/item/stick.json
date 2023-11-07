@@ -63,6 +63,8 @@
 		{ "predicate": { "custom_model_data": 1000010 }, "model": "ssbrc:developers/ricardo64" },
 		{ "predicate": { "custom_model_data": 1000011 }, "model": "ssbrc:developers/pastapower2k64" },
 
+		{ "predicate": { "custom_model_data": 1100000 }, "model": "ssbrc:ui/logo" },
+
 		{ "predicate": { "custom_model_data": 1400000 }, "model": "ssbrc:fighters/ryu/items/ashura_senku/trail/default/faded_0" },
 		{ "predicate": { "custom_model_data": 1401000 }, "model": "ssbrc:fighters/ryu/items/ashura_senku/trail/default/faded_1" },
 		{ "predicate": { "custom_model_data": 1402000 }, "model": "ssbrc:fighters/ryu/items/ashura_senku/trail/default/faded_2" },
