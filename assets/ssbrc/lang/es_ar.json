@@ -611,8 +611,8 @@
 	"ssbrc.series.pokemon.natures.lonely": "Huraña",
 	"ssbrc.series.pokemon.natures.quiet": "Mansa",
 	"ssbrc.series.pokemon.natures.timid": "Miedosa",
+	"ssbrc.tooltips.pokemon.megaPunch": "Megagolpe",
 	"ssbrc.fighters.pikachu": "Pikachu",
-	"ssbrc.tooltips.pikachu.megaPunch": "Megagolpe",
 	"ssbrc.tooltips.pikachu.thunderJolt": "Rayo",
 	"ssbrc.tooltips.pikachu.thunderJolt.description.1": "] para disparar un arco rebotador de electricidad",
 	"ssbrc.tooltips.pikachu.thunderJolt.description.2": "- Solo dos pueden estar activos a la vez",
@@ -1251,7 +1251,6 @@
 	"ssbrc.tooltips.spell.defensive": "Hechizo defensivo",
 
 	"ssbrc.tooltips.equipment.defensive": "Equipamiento defensivo",
-	"ssbrc.tooltips.equipment.shield": "Escudo",
 	"ssbrc.tooltips.equipment.utility": "Equipamiento de servicios públicos",
 	"ssbrc.tooltips.equipment.passive": "Equipamiento pasivo",
 

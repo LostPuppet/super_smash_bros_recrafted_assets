@@ -249,6 +249,7 @@
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:fighters/shadow/items/chaos_spear/default" },
 		{ "predicate": { "custom_model_data": 1902 }, "model": "ssbrc:fighters/shadow/items/chaos_emeralds/blue" },
 		{ "predicate": { "custom_model_data": 1903 }, "model": "ssbrc:fighters/shadow/items/chaos_emeralds/red" },
+		{ "predicate": { "custom_model_data": 1904 }, "model": "ssbrc:fighters/shadow/items/chaos_spear/disabled" },
 
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/skins/default" },
 		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:fighters/shovel_knight/items/chaos_sphere/default" },
