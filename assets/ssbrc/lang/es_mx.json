@@ -50,6 +50,9 @@
 	"ssbrc.shop.purchase": "Haga clic para comprar!",
 	"ssbrc.shop.owned": "Posesión",
 
+	"ssbrc.shop.collection.autumn": "Colección Otoño",
+	"ssbrc.shop.collection.winter": "Colección Invierno",
+
 	"ssbrc.lobby.selector": "Puntero",
 	"ssbrc.lobby.selector.suffix": "] para interactuar con objetos",
 
@@ -247,59 +250,55 @@
 	"ssbrc.team.pink": "Equipo Rosa",
 	"ssbrc.team.aqua": "Equipo Celeste",
 
-	"ssbrc.gameMode": "Modo de juego",
-	"ssbrc.gameModeTitle": "Modo de juego: ",
-	"ssbrc.gameMode.stock": "Por vidas",
-	"ssbrc.gameMode.time": "Por tiempo",
-
 	"ssbrc.options": "Opciones",
 
 	"ssbrc.options.on": "ON",
 	"ssbrc.options.off": "OFF",
 
-	"ssbrc.options.gameMode.stockLimit": "Vidas",
-	"ssbrc.options.gameMode.stockLimitTitle": "Vidas: ",
-	"ssbrc.options.gameMode.timeLimit": "Tiempo",
-	"ssbrc.options.gameMode.timeLimitTitle": "Tiempo: ",
+	"ssbrc.options.game_mode": "Modo de juego",
+	"ssbrc.options.game_mode.title": "Modo de juego: ",
+	"ssbrc.options.game_mode.description": "Controls how the game will function.",
+	"ssbrc.options.game_mode.stock": "Por vidas",
+	"ssbrc.options.game_mode.stock.description": "In this mode, you get a limited number of lives. When you lose your last life, you are out of the game.",
+	"ssbrc.options.game_mode.time": "Por tiempo",
+	"ssbrc.options.game_mode.time.description": "In this mode, you are never out of the game. Instead, you have a certain amount of time to get as many points as you can.",
 
-	"ssbrc.options.gameMode.timeLimit.1": "1 Minuto",
-	"ssbrc.options.gameMode.timeLimit.2": "2 Minutos",
-	"ssbrc.options.gameMode.timeLimit.3": "3 Minutos",
-	"ssbrc.options.gameMode.timeLimit.4": "4 Minutos",
-	"ssbrc.options.gameMode.timeLimit.5": "5 Minutos",
-	"ssbrc.options.gameMode.timeLimit.6": "6 Minutos",
-	"ssbrc.options.gameMode.timeLimit.7": "7 Minutos",
-	"ssbrc.options.gameMode.timeLimit.8": "8 Minutos",
-	"ssbrc.options.gameMode.timeLimit.9": "9 Minutos",
+	"ssbrc.options.stock_limit": "Vidas",
+	"ssbrc.options.stock_limit.title": "Vidas: ",
+	"ssbrc.options.stock_limit.description": "Controls how many stocks players have.",
+	"ssbrc.options.time_limit": "Tiempo",
+	"ssbrc.options.time_limit.title": "Tiempo: ",
+	"ssbrc.options.time_limit.description": "Controls how long the game will last.",
+
+	"ssbrc.options.time_limit.1": "1 Minute",
+	"ssbrc.options.time_limit.2": "2 Minutes",
+	"ssbrc.options.time_limit.3": "3 Minutes",
+	"ssbrc.options.time_limit.4": "4 Minutes",
+	"ssbrc.options.time_limit.5": "5 Minutes",
+	"ssbrc.options.time_limit.6": "6 Minutes",
+	"ssbrc.options.time_limit.7": "7 Minutes",
+	"ssbrc.options.time_limit.8": "8 Minutes",
+	"ssbrc.options.time_limit.9": "9 Minutes",
 
 	"ssbrc.options.teams": "Equipos",
 	"ssbrc.options.teamsTitle": "Equipos: ",
-
-	"ssbrc.options.friendlyFire": "Ataque en equipo",
-	"ssbrc.options.friendlyFireTitle": "Ataque en equipo: ",
+	"ssbrc.options.teams.description": "When enabled, players will be able to join teams that fight and win as one unit.",
 
 	"ssbrc.options.blindPick": "Elección ciega",
 	"ssbrc.options.blindPickTitle": "Elección ciega: ",
+	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter recieved when selecting random.",
 
 	"ssbrc.options.hazards": "Peligros",
 	"ssbrc.options.hazardsTitle": "Peligros: ",
-
-	"ssbrc.options.items": "Items",
-	"ssbrc.options.itemsTitle": "Items: ",
-
-	"ssbrc.options.itemRate": "Item Rate",
-	"ssbrc.options.itemRateTitle": "Item Rate: ",
-	"ssbrc.options.itemRate.fixed": "Fixed",
-	"ssbrc.options.itemRate.low": "Low",
-	"ssbrc.options.itemRate.medium": "Medium",
-	"ssbrc.options.itemRate.high": "High",
+	"ssbrc.options.hazards.description": "When enabled, stages may contain new mechanics such as traps, enemies, and other elements not part of the base terrain.",
 
 	"ssbrc.options.music": "Música",
-	"ssbrc.options.musicTitle": "Música: ",
+	"ssbrc.options.music.description": "Controls how the custom music is handled.",
+	"ssbrc.options.music.title": "Música: ",
 	"ssbrc.options.music.loop": "Bucle",
-	"ssbrc.options.music.loopDescription": "Elige una canción al azar y reprodúcela repetidamente.",
+	"ssbrc.options.music.loop.description": "Elige una canción al azar y reprodúcela repetidamente.",
 	"ssbrc.options.music.shuffle": "Barajar",
-	"ssbrc.options.music.shuffleDescription": "Elija una canción aleatoria asociada con la etapa actual.",
+	"ssbrc.options.music.shuffle.description": "Elija una canción aleatoria asociada con la etapa actual.",
 
 	"ssbrc.options.reset": "Opciones Predeterminadas",
 	"ssbrc.options.reset.confirm": "¡Las opciones del juego se han restablecido a sus valores predeterminados!",
@@ -350,6 +349,7 @@
 
 	"ssbrc.series.superMarioBros": "Super Mario Bros.",
 	"ssbrc.series.superMarioBros.skin.flowerPower": "Poder Flor",
+	"ssbrc.series.superMarioBros.skin.penguin": "Pingüino",
 	"ssbrc.tooltips.superMarioBros.hammer": "Martillo",
 	"ssbrc.tooltips.superMarioBros.superJump": "Súper salto",
 	"ssbrc.tooltips.superMarioBros.superJump.description.1": "] para cargar",
