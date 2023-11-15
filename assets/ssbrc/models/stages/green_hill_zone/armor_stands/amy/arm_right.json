@@ -1,8 +1,7 @@
 {
 	"textures": {
 		"0": "ssbrc:stages/green_hill_zone/armor_stands/amy",
-		"1": "ssbrc:stages/green_hill_zone/armor_stands/amy_hammer",
-		"particle": "ssbrc:stages/green_hill_zone/armor_stands/amy_hammer"
+		"1": "ssbrc:stages/green_hill_zone/armor_stands/amy_hammer"
 	},
 	"elements": [
 		{
