@@ -2,11 +2,6 @@
 	"sources": [
 		{
 			"type": "directory",
-			"source": "fighters",
-			"prefix": "fighters/"
-		},
-		{
-			"type": "directory",
 			"source": "colors",
 			"prefix": "colors/"
 		},
@@ -17,28 +12,18 @@
 		},
 		{
 			"type": "directory",
+			"source": "fighters",
+			"prefix": "fighters/"
+		},
+		{
+			"type": "directory",
 			"source": "inventory_icons",
 			"prefix": "inventory_icons/"
 		},
 		{
 			"type": "directory",
-			"source": "item",
-			"prefix": "item/"
-		},
-		{
-			"type": "directory",
 			"source": "items",
 			"prefix": "items/"
-		},
-		{
-			"type": "directory",
-			"source": "stage_icons",
-			"prefix": "stage_icons/"
-		},
-		{
-			"type": "directory",
-			"source": "stages",
-			"prefix": "stages/"
 		},
 		{
 			"type": "directory",
@@ -49,6 +34,16 @@
 			"type": "directory",
 			"source": "pokemon",
 			"prefix": "pokemon/"
+		},
+		{
+			"type": "directory",
+			"source": "stage_icons",
+			"prefix": "stage_icons/"
+		},
+		{
+			"type": "directory",
+			"source": "stages",
+			"prefix": "stages/"
 		},
 		{
 			"type": "directory",
