@@ -79,6 +79,16 @@
 		],
 		"replace":true
 	},
+	"item.book.page_turn": {
+		"sounds":[
+			{
+				"name":"ssbrc:ui/change_page",
+				"stream":false,
+				"volume": 0.1
+			}
+		],
+		"replace":true
+	},
 	"item.goat_horn.sound.0": {
 		"sounds":[
 			{

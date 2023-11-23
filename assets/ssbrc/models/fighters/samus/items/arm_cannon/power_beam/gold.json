@@ -2,6 +2,6 @@
 	"parent": "ssbrc:fighters/samus/items/arm_cannon/power_beam/parent",
 	"textures": {
 		"body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/gold",
-		"energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy"
+		"energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/gold"
 	}
 }

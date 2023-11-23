@@ -1960,6 +1960,15 @@
 			}
 		]
 	},
+	"stages.luigis_mansion.boo.deactivate": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/luigis_mansion/boo/deactivate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"stages.pac_maze.pac_maze.eat_fruit": {
 		"sounds":[
 			{

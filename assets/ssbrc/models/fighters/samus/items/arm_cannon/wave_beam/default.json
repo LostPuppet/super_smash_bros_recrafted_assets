@@ -2,6 +2,6 @@
 	"parent": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/parent",
 	"textures": {
 		"body": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/default",
-		"energy": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/energy"
+		"energy": "ssbrc:fighters/samus/items/arm_cannon/wave_beam/energy/default"
 	}
 }

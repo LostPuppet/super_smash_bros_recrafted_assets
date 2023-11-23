@@ -128,6 +128,7 @@
 		{ "predicate": { "custom_model_data": 1752 }, "model": "ssbrc:stages/tower_of_fate/knight_statue" },
 		{ "predicate": { "custom_model_data": 1800 }, "model": "ssbrc:stage_icons/wily_castle" },
 		{ "predicate": { "custom_model_data": 1801 }, "model": "ssbrc:stages/wily_castle/mural" },
+		{ "predicate": { "custom_model_data": 1802 }, "model": "ssbrc:stages/wily_castle/dr_w" },
 		{ "predicate": { "custom_model_data": 1850 }, "model": "ssbrc:stage_icons/planet_epp" },
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:stage_icons/pyrosphere" },
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:stages/pyrosphere/fgii_graham/body" },
