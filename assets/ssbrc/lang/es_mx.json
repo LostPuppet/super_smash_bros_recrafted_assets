@@ -615,6 +615,7 @@
 	"ssbrc.series.pokemon.natures.timid": "Miedosa",
 	"ssbrc.tooltips.pokemon.megaPunch": "Megagolpe",
 	"ssbrc.fighters.pikachu": "Pikachu",
+	"ssbrc.fighters.pikachu.skin.santaHat": "Sombrero de santa",
 	"ssbrc.tooltips.pikachu.thunderJolt": "Rayo",
 	"ssbrc.tooltips.pikachu.thunderJolt.description.1": "] para disparar un arco rebotador de electricidad",
 	"ssbrc.tooltips.pikachu.thunderJolt.description.2": "- Solo dos pueden estar activos a la vez",
@@ -1003,6 +1004,7 @@
 	"ssbrc.tooltips.persona.ability": "Poder del Persona",
 	"ssbrc.fighters.joker": "Joker",
 	"ssbrc.fighters.joker.skin.shujinAcademy": "Shujin Academy",
+	"ssbrc.fighters.joker.skin.christmasOutfit": "Traje de navidad",
 	"ssbrc.fighters.joker.personaAwakening": "Despertar de la Persona: ",
 	"ssbrc.fighters.joker.personaAwakening.activate": "Despertar de la Persona",
 	"ssbrc.fighters.joker.persona.equip": "] para cambiar la Persona actual",
@@ -1238,7 +1240,7 @@
 	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
 	"ssbrc.tooltips.item.powerPellet.description.1": "- Permite comer fantasmas temporalmente",
 
-	"ssbrc.tooltips.item.activation": "Activation Item",
+	"ssbrc.tooltips.item.activation": "Artículo de consumo",
 	"ssbrc.tooltips.item.activation.activate": "] Activar",
 
 	"ssbrc.tooltips.effects.burning": "- Inflige a los oponentes con Quemando",
@@ -1269,7 +1271,7 @@
 	"ssbrc.tooltips.ability.support": "Capacidad de apoyo",
 	"ssbrc.tooltips.ability.movement": "Habilidad de movimiento",
 	"ssbrc.tooltips.ability.transformation": "Capacidad de transformación",
-	"ssbrc.tooltips.ability.augment": "Augment Ability",
+	"ssbrc.tooltips.ability.augment": "Aumento de habilidad",
 	"ssbrc.tooltips.ability.infusion": "Habilidad de infusión",
 	"ssbrc.tooltips.ability.passive": "Habilidad Pasiva",
 	"ssbrc.tooltips.ability.passives": "Habilidades Pasivas",
