@@ -258,18 +258,18 @@
 
 	"ssbrc.options.game_mode": "Modo de juego",
 	"ssbrc.options.game_mode.title": "Modo de juego: ",
-	"ssbrc.options.game_mode.description": "Controls how the game will function.",
+	"ssbrc.options.game_mode.description": "Controla cómo funcionará el juego.",
 	"ssbrc.options.game_mode.stock": "Por vidas",
-	"ssbrc.options.game_mode.stock.description": "In this mode, you get a limited number of lives. When you lose your last life, you are out of the game.",
+	"ssbrc.options.game_mode.stock.description": "En este modo, obtienes un número limitado de vidas. Cuando pierdes tu última vida, estás fuera del juego.",
 	"ssbrc.options.game_mode.time": "Por tiempo",
-	"ssbrc.options.game_mode.time.description": "In this mode, you are never out of the game. Instead, you have a certain amount of time to get as many points as you can.",
+	"ssbrc.options.game_mode.time.description": "En este modo, nunca estás fuera del juego. En cambio, tienes una cierta cantidad de tiempo para conseguir tantos puntos como puedas.",
 
 	"ssbrc.options.stock_limit": "Vidas",
 	"ssbrc.options.stock_limit.title": "Vidas: ",
-	"ssbrc.options.stock_limit.description": "Controls how many stocks players have.",
+	"ssbrc.options.stock_limit.description": "Controla cuántas vidas tienen los jugadores.",
 	"ssbrc.options.time_limit": "Tiempo",
 	"ssbrc.options.time_limit.title": "Tiempo: ",
-	"ssbrc.options.time_limit.description": "Controls how long the game will last.",
+	"ssbrc.options.time_limit.description": "Controla cuánto durará el temporizador.",
 
 	"ssbrc.options.time_limit.1": "1 Minute",
 	"ssbrc.options.time_limit.2": "2 Minutes",
@@ -283,18 +283,18 @@
 
 	"ssbrc.options.teams": "Equipos",
 	"ssbrc.options.teamsTitle": "Equipos: ",
-	"ssbrc.options.teams.description": "When enabled, players will be able to join teams that fight and win as one unit.",
+	"ssbrc.options.teams.description": "Cuando esté habilitado, los jugadores se dividirán en equipos.",
 
 	"ssbrc.options.blindPick": "Elección ciega",
 	"ssbrc.options.blindPickTitle": "Elección ciega: ",
-	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter recieved when selecting random.",
+	"ssbrc.options.blind_pick.description": "Cuando esté habilitado, los jugadores no podrán ver el luchador recibido al seleccionar al azar.",
 
 	"ssbrc.options.hazards": "Peligros",
 	"ssbrc.options.hazardsTitle": "Peligros: ",
-	"ssbrc.options.hazards.description": "When enabled, stages may contain new mechanics such as traps, enemies, and other elements not part of the base terrain.",
+	"ssbrc.options.hazards.description": "Cuando están habilitados, los escenarios pueden contener nuevas mecánicas como trampas, enemigos y otros elementos que no forman parte del diseño estándar.",
 
 	"ssbrc.options.music": "Música",
-	"ssbrc.options.music.description": "Controls how the custom music is handled.",
+	"ssbrc.options.music.description": "Controla cómo se maneja la música personalizada.",
 	"ssbrc.options.music.title": "Música: ",
 	"ssbrc.options.music.loop": "Bucle",
 	"ssbrc.options.music.loop.description": "Elige una canción al azar y reprodúcela repetidamente.",
