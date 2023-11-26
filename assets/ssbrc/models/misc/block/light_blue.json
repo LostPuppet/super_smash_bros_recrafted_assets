@@ -1,6 +1,0 @@
-{
-	"parent": "ssbrc:misc/block/background",
-	"textures": {
-		"texture": "ssbrc:misc/block/light_blue"
-	}
-}
