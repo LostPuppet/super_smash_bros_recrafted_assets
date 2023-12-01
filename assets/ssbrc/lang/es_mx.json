@@ -322,7 +322,7 @@
 	"ssbrc.fighters.menu.gender.male": "Masculino",
 	"ssbrc.fighters.menu.gender.male.abbreviation": "[M]",
 
-	"ssbrc.fighters.mastery": "¡Has logrado la maestría como ",
+	"ssbrc.fighters.mastery": "¡Has alcanzado la maestría como este luchador y has desbloqueado su aspecto dorado!",
 
 	"ssbrc.fighters.skin.default": "Estándar",
 	"ssbrc.fighters.skin.gold": "Oro",
@@ -602,7 +602,7 @@
 
 	"ssbrc.series.pokemon": "Pokémon",
 	"ssbrc.series.pokemon.skins.shiny": "Variocolor",
-	"ssbrc.series.pokemon.catchShiny": "Capturaste un variocolor: ",
+	"ssbrc.series.pokemon.catchShiny": "¡Has atrapado un Pokémon brillante y desbloqueado su aspecto variocolor!",
 	"ssbrc.series.pokemon.nature": "Naturaleza: ",
 	"ssbrc.series.pokemon.natures.bold": "Osada",
 	"ssbrc.series.pokemon.natures.brave": "Audaz",
@@ -1248,17 +1248,17 @@
 
 	"ssbrc.tooltips.ammo": "Munición",
 
-	"ssbrc.tooltips.ability.offensive": "Habilidad ofensiva",
-	"ssbrc.tooltips.ability.defensive": "Equipamiento defensivo",
-	"ssbrc.tooltips.ability.melee": "Arma de contacto directo",
-	"ssbrc.tooltips.ability.ranged": "Arma a distancia",
-	"ssbrc.tooltips.ability.magic": "Arma mágica",
-	"ssbrc.tooltips.ability.hybrid": "Arma híbrida",
-	"ssbrc.tooltips.ability.utility": "Habilidad Activa",
-	"ssbrc.tooltips.ability.augment": "Aumento de habilidad",
-	"ssbrc.tooltips.ability.support": "Capacidad de apoyo",
-	"ssbrc.tooltips.ability.passive": "Habilidad Pasiva",
-	"ssbrc.tooltips.ability.transformation": "Capacidad de transformación",
+	"ssbrc.tooltips.ability.offensive": "Ofensiva",
+	"ssbrc.tooltips.ability.defensive": "Defensivo",
+	"ssbrc.tooltips.ability.melee": "Contacto directo",
+	"ssbrc.tooltips.ability.ranged": "Distancia",
+	"ssbrc.tooltips.ability.magic": "Mágica",
+	"ssbrc.tooltips.ability.hybrid": "Híbrida",
+	"ssbrc.tooltips.ability.utility": "Activa",
+	"ssbrc.tooltips.ability.augment": "Aumento",
+	"ssbrc.tooltips.ability.support": "Apoyo",
+	"ssbrc.tooltips.ability.passive": "Pasiva",
+	"ssbrc.tooltips.ability.transformation": "Transformación",
 
 	"ssbrc.tooltips.ability.utilities": "Habilidades Activas",
 	"ssbrc.tooltips.ability.passives": "Habilidades Pasivas",
