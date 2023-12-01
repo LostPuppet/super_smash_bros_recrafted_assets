@@ -1246,33 +1246,21 @@
 	"ssbrc.tooltips.effects.poison": "- Inflige a los oponentes con veneno",
 	"ssbrc.tooltips.effects.frostbite": "- Inflige a los oponentes con Congelación",
 
-	"ssbrc.tooltips.weapon.offensive": "Arma ofensiva",
-	"ssbrc.tooltips.weapon.melee": "Arma de contacto directo",
-	"ssbrc.tooltips.weapon.ranged": "Arma a distancia",
-	"ssbrc.tooltips.weapon.magic": "Arma mágica",
-	"ssbrc.tooltips.weapon.throwing": "Arma arrojadiza",
-	"ssbrc.tooltips.weapon.hybrid": "Arma híbrida",
-	"ssbrc.tooltips.weapon.utility": "Arma de utilidad",
-
 	"ssbrc.tooltips.ammo": "Munición",
 
-	"ssbrc.tooltips.spell.offensive": "Hechizo ofensivo",
-	"ssbrc.tooltips.spell.projectile": "Hechizo de Proyectil",
-	"ssbrc.tooltips.spell.defensive": "Hechizo defensivo",
-
-	"ssbrc.tooltips.equipment.defensive": "Equipamiento defensivo",
-	"ssbrc.tooltips.equipment.utility": "Equipamiento de servicios públicos",
-	"ssbrc.tooltips.equipment.passive": "Equipamiento pasivo",
-
 	"ssbrc.tooltips.ability.offensive": "Habilidad ofensiva",
+	"ssbrc.tooltips.ability.defensive": "Equipamiento defensivo",
+	"ssbrc.tooltips.ability.melee": "Arma de contacto directo",
+	"ssbrc.tooltips.ability.ranged": "Arma a distancia",
+	"ssbrc.tooltips.ability.magic": "Arma mágica",
+	"ssbrc.tooltips.ability.hybrid": "Arma híbrida",
 	"ssbrc.tooltips.ability.utility": "Habilidad Activa",
-	"ssbrc.tooltips.ability.utilities": "Habilidades Activas",
-	"ssbrc.tooltips.ability.support": "Capacidad de apoyo",
-	"ssbrc.tooltips.ability.movement": "Habilidad de movimiento",
-	"ssbrc.tooltips.ability.transformation": "Capacidad de transformación",
 	"ssbrc.tooltips.ability.augment": "Aumento de habilidad",
-	"ssbrc.tooltips.ability.infusion": "Habilidad de infusión",
+	"ssbrc.tooltips.ability.support": "Capacidad de apoyo",
 	"ssbrc.tooltips.ability.passive": "Habilidad Pasiva",
+	"ssbrc.tooltips.ability.transformation": "Capacidad de transformación",
+
+	"ssbrc.tooltips.ability.utilities": "Habilidades Activas",
 	"ssbrc.tooltips.ability.passives": "Habilidades Pasivas",
 
 	"ssbrc.tooltips.ability.activate": "] para usar",
