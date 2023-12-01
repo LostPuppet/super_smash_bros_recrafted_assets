@@ -692,9 +692,6 @@
 			"translation": [3.5, 0, 0],
 			"scale": [4, 4, 3]
 		},
-		"ground": {
-			"scale": [3, 3, 3]
-		},
 		"gui": {
 			"rotation": [-145, 45, 160],
 			"scale": [3, 3, 3]

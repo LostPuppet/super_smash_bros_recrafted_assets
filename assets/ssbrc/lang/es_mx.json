@@ -323,7 +323,6 @@
 	"ssbrc.fighters.menu.gender.male.abbreviation": "[M]",
 
 	"ssbrc.fighters.mastery": "¡Has logrado la maestría como ",
-	"ssbrc.fighters.unlockResult": " y desbloqueado su piel dorada!",
 
 	"ssbrc.fighters.skin.default": "Estándar",
 	"ssbrc.fighters.skin.gold": "Oro",
@@ -778,7 +777,7 @@
 	"ssbrc.tooltips.byleth.blueLions.areadbhar": "Areadbhar",
 	"ssbrc.tooltips.byleth.blueLions.areadbhar.description.1": "] para cargar un ataque giratorio",
 	"ssbrc.tooltips.byleth.blueLions.steedCharge": "Carga de corcel",
-	"ssbrc.tooltips.byleth.blueLions.steedCharge.description.1": "] para convocar a un caballo durante 5 segundos.",
+	"ssbrc.tooltips.byleth.blueLions.steedCharge.description.1": "] para convocar a un caballo durante 5 segundos",
 	"ssbrc.tooltips.byleth.blueLions.swiftness": "Velocidad",
 	"ssbrc.tooltips.byleth.blueLions.swiftness.description.1": "- Obtenga una mayor velocidad de movimiento con poca salud",
 	"ssbrc.tooltips.byleth.goldenDeer.failnaught": "Failnaught",
