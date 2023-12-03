@@ -637,6 +637,15 @@
 			}
 		]
 	},
+	"fighters.greninja.shadow_sneak.charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/greninja/shadow_sneak/charge",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.greninja.water_shuriken.activate": {
 		"sounds":[
 			{
@@ -1030,6 +1039,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/luigi/ice_ball/hit",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.luigi.super_jump.gooigi_charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/luigi/super_jump/gooigi_charge",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1937,6 +1955,15 @@
 			},
 			{
 				"name":"ssbrc:stages/luigis_mansion/blackout/2",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.luigis_mansion.boo.deactivate": {
+		"sounds":[
+			{
+				"name":"ssbrc:stages/luigis_mansion/boo/deactivate",
 				"stream":false,
 				"volume": 1.0
 			}

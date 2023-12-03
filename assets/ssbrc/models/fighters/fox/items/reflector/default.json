@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/fox/items/reflector/default"
@@ -21,9 +20,6 @@
 		},
 		"firstperson_lefthand": {
 			"translation": [7.5, 12, -6.25],
-			"scale": [0.25, 0.25, 0.25]
-		},
-		"ground": {
 			"scale": [0.25, 0.25, 0.25]
 		}
 	}

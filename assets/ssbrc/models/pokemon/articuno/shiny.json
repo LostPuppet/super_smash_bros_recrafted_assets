@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:pokemon/articuno/parent",
+	"textures": {
+		"base": "ssbrc:pokemon/articuno/shiny"
+	}
+}

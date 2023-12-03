@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "ssbrc:fighters/byleth/items/golden_deer/failnaught/pulling_3"

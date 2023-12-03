@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/zelda/items/weapons/spear/titanium"

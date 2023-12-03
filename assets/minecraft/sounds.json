@@ -79,7 +79,17 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound0": {
+	"item.book.page_turn": {
+		"sounds":[
+			{
+				"name":"ssbrc:ui/change_page",
+				"stream":false,
+				"volume": 0.1
+			}
+		],
+		"replace":true
+	},
+	"item.goat_horn.sound.0": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -89,7 +99,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound1": {
+	"item.goat_horn.sound.1": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -99,7 +109,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound2": {
+	"item.goat_horn.sound.2": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -109,7 +119,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound3": {
+	"item.goat_horn.sound.3": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -119,7 +129,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound4": {
+	"item.goat_horn.sound.4": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -129,7 +139,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound5": {
+	"item.goat_horn.sound.5": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -139,7 +149,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound6": {
+	"item.goat_horn.sound.6": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
@@ -149,7 +159,7 @@
 		],
 		"replace":true
 	},
-	"item.goat_horn.sound7": {
+	"item.goat_horn.sound.7": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",

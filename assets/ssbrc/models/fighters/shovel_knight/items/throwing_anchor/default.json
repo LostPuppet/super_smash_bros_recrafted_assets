@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "ssbrc:fighters/shovel_knight/items/throwing_anchor/default"
@@ -552,7 +551,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [-20, 90, 0],
-			"translation": [2, 14, 0],
+			"translation": [2, 2, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {

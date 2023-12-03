@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "ssbrc:fighters/zelda/items/dungeon_items/boomerang"
@@ -24,8 +23,7 @@
 			"translation": [5, 0, 0]
 		},
 		"head": {
-			"rotation": [90, 0, 135],
-			"translation": [0, -30.75, 0]
+			"rotation": [90, 0, 135]
 		}
 	}
 }

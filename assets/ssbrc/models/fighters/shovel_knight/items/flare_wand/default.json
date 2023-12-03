@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "ssbrc:fighters/shovel_knight/items/flare_wand/default"
@@ -22,7 +21,7 @@
 		},
 		"firstperson_lefthand": {
 			"rotation": [-42.5, 90, 0],
-			"translation": [0, 3, 2],
+			"translation": [0, 15, 2],
 			"scale": [0.5, 0.5, 0.5]
 		}
 	}

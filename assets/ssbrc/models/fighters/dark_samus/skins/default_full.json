@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "ssbrc:fighters/dark_samus/skins/default",
@@ -692,9 +691,6 @@
 		"firstperson_lefthand": {
 			"translation": [3.5, 0, 0],
 			"scale": [4, 4, 3]
-		},
-		"ground": {
-			"scale": [3, 3, 3]
 		},
 		"gui": {
 			"rotation": [-145, 45, 160],

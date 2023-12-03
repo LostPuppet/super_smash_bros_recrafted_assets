@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/sora/items/keyblades/gold/star_seeker"
@@ -30,8 +29,8 @@
 			"scale": [1.4, 1.4, 1.4]
 		},
 		"head": {
-			"rotation": [-90, 0, 45],
-			"scale": [3, 3, 3]
+			"rotation": [45, 90, 0],
+			"scale": [2, 2, 2]
 		}
 	}
 }

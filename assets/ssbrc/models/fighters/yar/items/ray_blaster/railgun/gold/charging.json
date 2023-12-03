@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/yar/items/ray_blaster/railgun/gold/charging"
