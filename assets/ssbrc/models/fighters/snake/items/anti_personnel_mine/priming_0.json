@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:fighters/snake/items/anti_personnel_mine/parent",
+	"textures": {
+		"status": "ssbrc:fighters/snake/items/anti_personnel_mine/priming_0"
+	}
+}

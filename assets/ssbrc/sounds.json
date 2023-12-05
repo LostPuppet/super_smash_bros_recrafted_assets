@@ -1297,6 +1297,33 @@
 			}
 		]
 	},
+	"fighters.roy.counter.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/roy/counter/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.roy.counter.hit": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/roy/counter/hit",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.roy.counter.success": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/roy/counter/success",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.ryu.ashura_senku.activate": {
 		"sounds":[
 			{
@@ -1914,6 +1941,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:items/poke_ball/open",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"misc.target_break": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/target_break",
 				"stream":false,
 				"volume": 1.0
 			}

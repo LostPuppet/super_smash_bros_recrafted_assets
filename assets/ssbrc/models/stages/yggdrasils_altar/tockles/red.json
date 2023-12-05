@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:stages/yggdrasils_altar/tockles/parent",
+	"textures": {
+		"colour": "ssbrc:stages/yggdrasils_altar/tockles/red"
+	}
+}

@@ -1,6 +1,6 @@
 {
-	"parent": "ssbrc:template/head",
+	"parent": "fighters/shovelknight/skins/parent",
 	"textures": {
-		"base": "ssbrc:fighters/shovel_knight/skins/phase_locket"
+		"skin": "ssbrc:fighters/shovelknight/skins/phase_locket"
 	}
 }

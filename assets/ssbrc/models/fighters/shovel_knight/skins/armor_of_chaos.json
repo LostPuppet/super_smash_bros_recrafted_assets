@@ -1,6 +1,6 @@
 {
-	"parent": "ssbrc:template/head",
+	"parent": "fighters/shovelknight/skins/parent",
 	"textures": {
-		"base": "ssbrc:fighters/shovel_knight/skins/armor_of_chaos"
+		"skin": "ssbrc:fighters/shovelknight/skins/armor_of_chaos"
 	}
 }
