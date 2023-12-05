@@ -1,6 +1,6 @@
 {
-	"parent": "fighters/shovelknight/skins/parent_full",
+	"parent": "ssbrc:fighters/shovel_knight/skins/parent_full",
 	"textures": {
-		"skin": "ssbrc:fighters/shovelknight/skins/gold"
+		"skin": "ssbrc:fighters/shovel_knight/skins/gold"
 	}
 }

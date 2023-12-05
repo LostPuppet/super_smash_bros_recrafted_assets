@@ -141,6 +141,14 @@
 		{ "predicate": { "custom_model_data": 1082 }, "model": "ssbrc:fighters/ness/items/pk_flash" },
 
 		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:fighters/peach/skins/default" },
+		{ "predicate": { "custom_model_data": 1161 }, "model": "ssbrc:fighters/peach/items/turnip/bored" },
+		{ "predicate": { "custom_model_data": 1162 }, "model": "ssbrc:fighters/peach/items/turnip/dot_eyes" },
+		{ "predicate": { "custom_model_data": 1163 }, "model": "ssbrc:fighters/peach/items/turnip/laughing" },
+		{ "predicate": { "custom_model_data": 1164 }, "model": "ssbrc:fighters/peach/items/turnip/shocked" },
+		{ "predicate": { "custom_model_data": 1165 }, "model": "ssbrc:fighters/peach/items/turnip/sleepy" },
+		{ "predicate": { "custom_model_data": 1166 }, "model": "ssbrc:fighters/peach/items/turnip/smiley" },
+		{ "predicate": { "custom_model_data": 1167 }, "model": "ssbrc:fighters/peach/items/turnip/stitch_face" },
+		{ "predicate": { "custom_model_data": 1168 }, "model": "ssbrc:fighters/peach/items/turnip/wink" },
 
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:fighters/pikachu/skins/default" },
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:fighters/pikachu/items/electric_terrain" },
