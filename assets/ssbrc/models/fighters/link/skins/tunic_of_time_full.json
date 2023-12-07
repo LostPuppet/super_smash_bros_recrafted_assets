@@ -1,7 +1,7 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:fighters/link/skins/goron_tunic"
+		"0": "ssbrc:fighters/link/skins/tunic_of_time"
 	},
 	"elements": [
 		{

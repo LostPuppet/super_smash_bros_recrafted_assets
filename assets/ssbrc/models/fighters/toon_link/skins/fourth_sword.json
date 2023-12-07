@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/head",
+	"textures": {
+		"base": "ssbrc:fighters/toon_link/skins/fourth_sword"
+	}
+}

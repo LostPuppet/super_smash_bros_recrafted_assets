@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ssbrc:fighters/cloud/items/buster_sword/default"
+		"layer0": "ssbrc:fighters/cloud/items/sword/gold"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -23,10 +23,6 @@
 			"rotation": [-45, 90, 0],
 			"translation": [3.25, 10.5, 0.75],
 			"scale": [1.5, 1.5, 1]
-		},
-		"ground": {
-			"translation": [0, 6, 0],
-			"scale": [1.2, 1.2, 1]
 		}
 	}
 }

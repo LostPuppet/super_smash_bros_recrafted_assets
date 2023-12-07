@@ -304,6 +304,16 @@
 	"ssbrc.options.reset": "Reset to Defaults",
 	"ssbrc.options.reset.confirm": "Game options have been reset to default!",
 
+	"ssbrc.options.high": "High",
+	"ssbrc.options.medium": "Medium",
+	"ssbrc.options.low": "Low",
+
+	"ssbrc.player_profile.graphics": "Graphics",
+	"ssbrc.player_profile.graphics.description": "Controls the quality of certain visual effects.",
+	"ssbrc.player_profile.graphics.high.description": "All visual effects are displayed.",
+	"ssbrc.player_profile.graphics.medium.description": "Increased visual fidelity while disabling certain secondary effects.",
+	"ssbrc.player_profile.graphics.low.description": "Only the bare minimum of visual effects are displayed.",
+
 	"ssbrc.admin.forceReset": "All player data has been successfully reset.",
 
 	"ssbrc.fighters.menu.selectFighter": "Select Fighter",
