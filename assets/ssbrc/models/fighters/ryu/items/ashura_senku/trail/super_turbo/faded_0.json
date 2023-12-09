@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/steve",
+	"textures": {
+		"base": "ssbrc:fighters/ryu/items/ashura_senku/trail/super_turbo/faded_0"
+	}
+}

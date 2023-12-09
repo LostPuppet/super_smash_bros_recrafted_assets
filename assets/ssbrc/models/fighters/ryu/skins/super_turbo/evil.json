@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/head",
+	"textures": {
+		"base": "ssbrc:fighters/ryu/skins/super_turbo/evil"
+	}
+}

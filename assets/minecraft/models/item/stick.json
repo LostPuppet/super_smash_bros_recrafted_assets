@@ -40,7 +40,7 @@
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:fighters/wolf/skins/default_full" },
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/skins/default_full" },
 
-		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/warewolf_full" },
+		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion_full" },
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:fighters/alucard/skins/default/full" },
 		{ "predicate": { "custom_model_data": 1860 }, "model": "ssbrc:fighters/giegue/skins/default_full" },
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:fighters/shadow/skins/default_full" },
