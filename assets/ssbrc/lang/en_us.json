@@ -592,6 +592,7 @@
 	"ssbrc.tooltips.kirby.puffUp.description.1": "] in midair to perform an extra jump",
 	"ssbrc.tooltips.kirby.puffUp.description.2": "- Can jump up to 5 times",
 	"ssbrc.tooltips.kirby.puffUp.description.3": "- Each jump is weaker than the last",
+	"ssbrc.fighters.king_dedede": "King Dedede",
 	"ssbrc.stages.dream_land": "Dream Land",
 	"ssbrc.music.checker_knights": "Checker Knights",
 	"ssbrc.music.planet_popstar": "Planet Popstar",
@@ -684,6 +685,7 @@
 	"ssbrc.fighters.pokemon_trainer.iChooseYou.prefix": "",
 	"ssbrc.fighters.pokemon_trainer.iChooseYou": ", I choose you!",
 	"ssbrc.fighters.pokemon_trainer.catchShiny": "You have caught a shiny for ",
+	"ssbrc.fighters.lucario": "Lucario",
 	"ssbrc.fighters.greninja": "Greninja",
 	"ssbrc.tooltips.greninja.nightSlash": "Night Slash",
 	"ssbrc.tooltips.greninja.nightSlash.description.1": "- Can occasionally land a critical hit",
@@ -777,6 +779,8 @@
 	"ssbrc.music.ice_climber_retro": "Ice Climber (Retro)",
 
 	"ssbrc.series.fireEmblem": "Fire Emblem",
+	"ssbrc.fighters.roy": "Roy",
+	"ssbrc.fighters.roy.skin.young_lion": "Young Lion",
 	"ssbrc.fighters.byleth": "Byleth",
 	"ssbrc.fighters.byleth.skin.awakened": "Awakened",
 	"ssbrc.fighters.byleth.selectHouse": "Select House",
@@ -816,7 +820,8 @@
 	"ssbrc.music.story_5_meeting": "Story 5 Meeting",
 	"ssbrc.music.with_milas_divine_protection": "With Mila's Divine Protection",
 
-	"ssbrc.series.game&Watch": "Game & Watch",
+	"ssbrc.series.game_and_watch": "Game & Watch",
+	"ssbrc.fighters.mr_game_and_watch": "Mr. Game & Watch",
 	"ssbrc.stages.flat_zone": "Flat Zone",
 	"ssbrc.music.flat_zone_2": "Flat Zone 2",
 
@@ -936,6 +941,9 @@
 	"ssbrc.tooltips.rob.roboBurner": "Robo Burner",
 	"ssbrc.tooltips.rob.roboBurner.description.1": "] to propel into the air",
 	"ssbrc.tooltips.rob.roboBurner.description.2": "- Recharges while not in use",
+
+	"ssbrc.series.animal_crossing": "Animal Crossing",
+	"ssbrc.fighters.villager": "Villager",
 
 	"ssbrc.fighters.mega_man": "Mega Man",
 	"ssbrc.tooltips.mega_man.megaBuster": "Mega Buster",
