@@ -240,7 +240,7 @@
 
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/skins/default" },
 
-		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/human" },
+		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/items/waredragon/electrocution" },
 		{ "predicate": { "custom_model_data": 1822 }, "model": "ssbrc:fighters/altered_beast/items/warewolf/flame_hands" },
 
