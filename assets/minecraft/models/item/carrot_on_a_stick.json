@@ -166,6 +166,8 @@
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
 
+		{ "predicate": { "custom_model_data": 1380 }, "model": "ssbrc:fighters/roy/skins/default" },
+
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
 		{ "predicate": { "custom_model_data": 1402 }, "model": "ssbrc:fighters/ryu/items/satsui_no_hado_rage" },

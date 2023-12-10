@@ -285,8 +285,8 @@
 	"ssbrc.options.teamsTitle": "Equipos: ",
 	"ssbrc.options.teams.description": "Cuando esté habilitado, los jugadores se dividirán en equipos.",
 
-	"ssbrc.options.blindPick": "Elección ciega",
-	"ssbrc.options.blindPickTitle": "Elección ciega: ",
+	"ssbrc.options.blind_pick": "Elección ciega",
+	"ssbrc.options.blind_pickTitle": "Elección ciega: ",
 	"ssbrc.options.blind_pick.description": "Cuando esté habilitado, los jugadores no podrán ver el luchador recibido al seleccionar al azar.",
 
 	"ssbrc.options.hazards": "Peligros",
