@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:fighters/hero/items/spells/kaclang/default"
+		"layer0": "ssbrc:fighters/hero/items/spells/heal"
 	},
 	"display": {
 		"thirdperson_righthand": {

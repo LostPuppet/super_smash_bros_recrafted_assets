@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:fighters/hero/items/spells/bang/disabled"
+		"layer0": "ssbrc:fighters/hero/items/spells/bang"
 	},
 	"display": {
 		"thirdperson_righthand": {

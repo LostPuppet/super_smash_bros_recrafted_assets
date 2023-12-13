@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:fighters/hero/items/spells/bang/default"
+		"layer0": "ssbrc:fighters/hero/items/spells/kacrackle_slash"
 	},
 	"display": {
 		"thirdperson_righthand": {
