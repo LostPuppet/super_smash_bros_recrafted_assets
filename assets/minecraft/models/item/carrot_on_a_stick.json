@@ -112,7 +112,7 @@
 		{ "predicate": { "custom_model_data": 683 }, "model": "ssbrc:fighters/king_k_rool/items/blunderbuss/gold" },
 		{ "predicate": { "custom_model_data": 684 }, "model": "ssbrc:fighters/king_k_rool/items/cannonball/gold" },
 
-		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/skins/default" },
+		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/skins/default/default" },
 
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:fighters/link/skins/default" },
 		{ "predicate": { "custom_model_data": 721 }, "model": "ssbrc:fighters/link/items/master_sword/default/default" },

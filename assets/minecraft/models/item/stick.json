@@ -18,7 +18,7 @@
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/full" },
 		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/skins/default/full" },
 		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:fighters/king_k_rool/skins/default_full" },
-		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/skins/default_full" },
+		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/skins/default/full" },
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:fighters/link/skins/default_full" },
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default_full" },
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:fighters/mario/skins/default_full" },
