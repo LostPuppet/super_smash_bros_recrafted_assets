@@ -2,5 +2,23 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "ssbrc:fighters/peach/items/tennis_racket/default"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -90, 0],
+			"translation": [0, 4.5, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 90, 0],
+			"translation": [0, 4.5, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -15, 150],
+			"translation": [3, 1.75, -1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, -15, -150],
+			"translation": [3, 1.75, -1]
+		}
 	}
 }
