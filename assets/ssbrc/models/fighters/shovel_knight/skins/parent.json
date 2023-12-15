@@ -309,6 +309,10 @@
 		"head": {
 			"translation": [0, 6.5, 0],
 			"scale": [1.85, 1.85, 1.85]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 2.5, 0]
 		}
 	},
 	"groups": [
