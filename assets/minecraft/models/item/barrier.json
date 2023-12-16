@@ -93,6 +93,7 @@
 		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:fighters/mega_man/skins/default" },
 		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:fighters/mega_man/skins/gold" },
 		{ "predicate": { "custom_model_data": 882 }, "model": "ssbrc:fighters/mega_man/skins/star_force" },
+		{ "predicate": { "custom_model_data": 1040 }, "model": "ssbrc:fighters/mr_game_and_watch/skins/default/idle" },
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:fighters/ness/skins/default" },
 		{ "predicate": { "custom_model_data": 1081 }, "model": "ssbrc:fighters/ness/skins/gold" },
 		{ "predicate": { "custom_model_data": 1082 }, "model": "ssbrc:fighters/ness/skins/moonside" },
