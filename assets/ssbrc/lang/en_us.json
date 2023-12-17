@@ -317,8 +317,8 @@
 	"ssbrc.admin.forceReset": "All player data has been successfully reset.",
 
 	"ssbrc.fighters.menu.selectFighter": "Select Fighter",
-	"ssbrc.fighters.menu.skinOptions": "Skin Options",
-	"ssbrc.fighters.menu.skinOptions.description": " to change your equipped skin!",
+	"ssbrc.fighters.menu.skin_options": "Skin Options",
+	"ssbrc.fighters.menu.skin_options.description": " to change your equipped skin!",
 	"ssbrc.fighters.menu.wiki": "Click for Wiki",
 	"ssbrc.fighters.menu.wiki.description": " to open this Fighter's wiki!",
 

@@ -307,8 +307,8 @@
 	"ssbrc.admin.forceReset": "Todos los datos del jugador se han restablecido con éxito.",
 
 	"ssbrc.fighters.menu.selectFighter": "Seleccionar Combatiente",
-	"ssbrc.fighters.menu.skinOptions": "Opciones de aspecto",
-	"ssbrc.fighters.menu.skinOptions.description": " para cambiar tu aspecto equipado",
+	"ssbrc.fighters.menu.skin_options": "Opciones de aspecto",
+	"ssbrc.fighters.menu.skin_options.description": " para cambiar tu aspecto equipado",
 	"ssbrc.fighters.menu.wiki": "Haga clic para wiki",
 	"ssbrc.fighters.menu.wiki.description": " para abrir el wiki de este combatiente",
 
