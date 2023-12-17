@@ -172,6 +172,11 @@
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
 
 		{ "predicate": { "custom_model_data": 1380 }, "model": "ssbrc:fighters/roy/skins/default" },
+		{ "predicate": { "custom_model_data": 1381 }, "model": "ssbrc:fighters/roy/items/sword/default" },
+		{ "predicate": { "custom_model_data": 1382 }, "model": "ssbrc:fighters/roy/items/sword/gold" },
+		{ "predicate": { "custom_model_data": 1383 }, "model": "ssbrc:fighters/roy/items/sword/awakening" },
+		{ "predicate": { "custom_model_data": 1384 }, "model": "ssbrc:fighters/roy/items/sword/blazing_bachelor" },
+		{ "predicate": { "custom_model_data": 1385 }, "model": "ssbrc:fighters/roy/items/sword/young_lion" },
 
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:fighters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:fighters/ryu/items/collarbone_breaker/default/default" },
