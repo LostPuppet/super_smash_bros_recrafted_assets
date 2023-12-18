@@ -1265,20 +1265,39 @@
 
 	"ssbrc.info.weight": "kg",
 
+	"ssbrc.tooltips.item.angel_feather": "Angel Feather",
+	"ssbrc.tooltips.item.angel_feather.description.1": "- Drastically increases jump height and grants slow falling",
+	"ssbrc.tooltips.item.angel_feather.description.2": "- Lasts for a single jump",
+	"ssbrc.tooltips.item.cloaking_device": "Cloaking Device",
+	"ssbrc.tooltips.item.cracker_launcher": "Cracker Launcher",
+	"ssbrc.tooltips.item.deaths_scythe": "Death's Scythe",
+	"ssbrc.tooltips.item.food": "Food",
+	"ssbrc.tooltips.item.franklin_badge": "Franklin Badge",
+	"ssbrc.tooltips.item.freezie": "Freezie",
+	"ssbrc.tooltips.item.lips_stick": "Lip's Stick",
+	"ssbrc.tooltips.item.maxim_tomato": "Maxim Tomato",
+	"ssbrc.tooltips.item.motion_sensor_bomb": "Motion Sensor Bomb",
+	"ssbrc.tooltips.item.power_pellet": "Power Pellet",
+	"ssbrc.tooltips.item.power_pellet.description": "- Allows ghosts to be eaten temporarily",
+	"ssbrc.tooltips.item.ray_gun": "Ray Gun",
+	"ssbrc.tooltips.item.special_flag": "Special Flag",
+	"ssbrc.tooltips.item.super_mushroom": "Super Mushroom",
+	"ssbrc.tooltips.item.team_healer": "Team Healer",
+
+	"ssbrc.tooltips.item.activation": "Activation Item",
+	"ssbrc.tooltips.item.activation.activate": "] to activate",
+	"ssbrc.tooltips.item.battering": "Battering Item",
+	"ssbrc.tooltips.item.equipment": "Equipment Item",
+	"ssbrc.tooltips.item.power_up": "Power Up Item",
+	"ssbrc.tooltips.item.recovery": "Recovery Item",
+	"ssbrc.tooltips.item.shooting": "Shooting Item",
+	"ssbrc.tooltips.item.throwing": "Throwing Item",
+
 	"ssbrc.tooltips.holdKey": "- Hold [",
 
 	"ssbrc.tooltips.noAbilities": "This fighter does not",
 	"ssbrc.tooltips.noPassives": "possess any passive abilities.",
 	"ssbrc.tooltips.noUtilities": "possess any utility abilities.",
-
-	"ssbrc.tooltips.item.angel_feather": "Angel Feather",
-	"ssbrc.tooltips.item.angel_feather.description.1": "- Drastically increases jump height and grants slow falling",
-	"ssbrc.tooltips.item.angel_feather.description.2": "- Lasts for a single jump",
-	"ssbrc.tooltips.item.power_pellet": "Power Pellet",
-	"ssbrc.tooltips.item.power_pellet.description": "- Allows ghosts to be eaten temporarily",
-
-	"ssbrc.tooltips.item.activation": "Activation Item",
-	"ssbrc.tooltips.item.activation.activate": "] to activate",
 
 	"ssbrc.tooltips.effects.burning": "- Inflicts opponents with Burning",
 	"ssbrc.tooltips.effects.poison": "- Inflicts opponents with Poison",
