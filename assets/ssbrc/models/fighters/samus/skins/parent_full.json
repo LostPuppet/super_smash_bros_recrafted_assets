@@ -1,10 +1,5 @@
 {
 	"texture_size": [64, 64],
-	"textures": {
-		"base": "ssbrc:fighters/samus/skins/default",
-		"arm_cannon_body": "ssbrc:fighters/samus/items/arm_cannon/power_beam/default",
-		"arm_cannon_energy": "ssbrc:fighters/samus/items/arm_cannon/power_beam/energy/default"
-	},
 	"elements": [
 		{
 			"name": "Head",
