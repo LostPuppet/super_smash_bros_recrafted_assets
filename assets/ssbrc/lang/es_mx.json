@@ -1230,11 +1230,11 @@
 	"ssbrc.tooltips.noPassives": "posee ninguna habilidad pasiva.",
 	"ssbrc.tooltips.noUtilities": "posee ninguna habilidad activa.",
 
-	"ssbrc.tooltips.item.angelFeather": "Pluma de ángel",
-	"ssbrc.tooltips.item.angelFeather.description.1": "- Aumenta drásticamente la altura del salto y otorga una caída lenta",
-	"ssbrc.tooltips.item.angelFeather.description.2": "- Dura para un solo salto",
-	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
-	"ssbrc.tooltips.item.powerPellet.description.1": "- Permite comer fantasmas temporalmente",
+	"ssbrc.tooltips.item.angel_feather": "Pluma de ángel",
+	"ssbrc.tooltips.item.angel_feather.description.1": "- Aumenta drásticamente la altura del salto y otorga una caída lenta",
+	"ssbrc.tooltips.item.angel_feather.description.2": "- Dura para un solo salto",
+	"ssbrc.tooltips.item.power_pellet": "Power Pellet",
+	"ssbrc.tooltips.item.power_pellet.description": "- Permite comer fantasmas temporalmente",
 
 	"ssbrc.tooltips.item.activation": "Artículo de consumo",
 	"ssbrc.tooltips.item.activation.activate": "] Activar",

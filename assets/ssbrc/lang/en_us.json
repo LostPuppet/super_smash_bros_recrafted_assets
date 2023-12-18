@@ -1271,11 +1271,11 @@
 	"ssbrc.tooltips.noPassives": "possess any passive abilities.",
 	"ssbrc.tooltips.noUtilities": "possess any utility abilities.",
 
-	"ssbrc.tooltips.item.angelFeather": "Angel Feather",
-	"ssbrc.tooltips.item.angelFeather.description.1": "- Drastically increases jump height and grants slow falling",
-	"ssbrc.tooltips.item.angelFeather.description.2": "- Lasts for a single jump",
-	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
-	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten temporarily",
+	"ssbrc.tooltips.item.angel_feather": "Angel Feather",
+	"ssbrc.tooltips.item.angel_feather.description.1": "- Drastically increases jump height and grants slow falling",
+	"ssbrc.tooltips.item.angel_feather.description.2": "- Lasts for a single jump",
+	"ssbrc.tooltips.item.power_pellet": "Power Pellet",
+	"ssbrc.tooltips.item.power_pellet.description": "- Allows ghosts to be eaten temporarily",
 
 	"ssbrc.tooltips.item.activation": "Activation Item",
 	"ssbrc.tooltips.item.activation.activate": "] to activate",

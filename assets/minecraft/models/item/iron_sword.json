@@ -57,6 +57,9 @@
 		{ "predicate": { "custom_model_data": 9020 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/glass" },
 		{ "predicate": { "custom_model_data": 9021 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/obsidian" },
 		{ "predicate": { "custom_model_data": 9022 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/ruby" },
-		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" }
+		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" },
+
+		{ "predicate": { "custom_model_data": 100000 }, "model": "ssbrc:items/killing_edge/default" },
+		{ "predicate": { "custom_model_data": 100001 }, "model": "ssbrc:items/killing_edge/active" }
 	]
 }
