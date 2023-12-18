@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "Head",
-			"from": [4.5, 1, 4.5],
+			"from": [4.5, 1, 4.1],
 			"to": [11.5, 8, 11.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 8]},
 			"faces": {
@@ -306,13 +306,13 @@
 		}
 	],
 	"display": {
-		"head": {
-			"translation": [0, 6.5, 0],
-			"scale": [1.85, 1.85, 1.85]
-		},
 		"gui": {
 			"rotation": [30, 225, 0],
 			"translation": [0, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, 6.5, 0],
+			"scale": [1.85, 1.85, 1.85]
 		}
 	},
 	"groups": [
