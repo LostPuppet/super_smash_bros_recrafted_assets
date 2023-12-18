@@ -257,18 +257,16 @@
 	"ssbrc.options.off": "OFF",
 
 	"ssbrc.options.game_mode": "Game Mode",
-	"ssbrc.options.game_mode.title": "Game Mode: ",
 	"ssbrc.options.game_mode.description": "Controls how the game will function.",
 	"ssbrc.options.game_mode.stock": "Stock",
 	"ssbrc.options.game_mode.stock.description": "In this mode, you get a limited number of lives. When you lose your last life, you are out of the game.",
+	"ssbrc.options.game_mode.stock.enable": "[!] Stocks required",
 	"ssbrc.options.game_mode.time": "Time",
 	"ssbrc.options.game_mode.time.description": "In this mode, you are never out of the game. Instead, you have a certain amount of time to get as many points as you can.",
 
 	"ssbrc.options.stock_limit": "Stock Limit",
-	"ssbrc.options.stock_limit.title": "Stock Limit: ",
 	"ssbrc.options.stock_limit.description": "Controls how many stocks players have.",
 	"ssbrc.options.time_limit": "Time Limit",
-	"ssbrc.options.time_limit.title": "Time Limit: ",
 	"ssbrc.options.time_limit.description": "Controls how long the game will last.",
 
 	"ssbrc.options.time_limit.1": "1 Minute",
@@ -282,20 +280,31 @@
 	"ssbrc.options.time_limit.9": "9 Minutes",
 
 	"ssbrc.options.teams": "Teams",
-	"ssbrc.options.teams.title": "Teams: ",
 	"ssbrc.options.teams.description": "When enabled, players will be able to join teams that fight and win as one unit.",
 
+	"ssbrc.options.team_restock": "Team Restock",
+	"ssbrc.options.team_restock.description": "When enabled, downed teammates will be revived by consuming a stock of their teammate with the most stocks.",
+	"ssbrc.options.team_restock.enable": "[!] Teams disabled",
+
 	"ssbrc.options.blind_pick": "Blind Pick",
-	"ssbrc.options.blind_pick.title": "Blind Pick: ",
 	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter recieved when selecting random.",
 
+	"ssbrc.options.friendly_fire": "Friendly Fire",
+	"ssbrc.options.friendly_fire.description": "When enabled, players will be able to hurt teammates and NPCs under their control.",
+
 	"ssbrc.options.hazards": "Hazards",
-	"ssbrc.options.hazards.title": "Hazards: ",
 	"ssbrc.options.hazards.description": "When enabled, stages may contain new mechanics such as traps, enemies, and other elements not part of the base terrain.",
+
+	"ssbrc.options.items": "Items",
+	"ssbrc.options.items.description": "When enabled, various items will spawn in stages that have a variety of effects.",
+	"ssbrc.options.items.enable": "[!] Items disabled\nEnable Items\nto modify\nthis setting",
+
+	"ssbrc.options.item_rate": "Item Rate",
+	"ssbrc.options.item_rate.description": "Controls how often a new item spawns.",
+	"ssbrc.options.item_rate.fixed.description": "Only items that are associated with a stage will spawn.",
 
 	"ssbrc.options.music": "Music",
 	"ssbrc.options.music.description": "Controls how the custom music is handled.",
-	"ssbrc.options.music.title": "Music: ",
 	"ssbrc.options.music.loop": "Loop",
 	"ssbrc.options.music.loop.description": "The song selected at the beginning of the match is looped until the match ends.",
 	"ssbrc.options.music.shuffle": "Shuffle",
@@ -307,6 +316,7 @@
 	"ssbrc.options.high": "High",
 	"ssbrc.options.medium": "Medium",
 	"ssbrc.options.low": "Low",
+	"ssbrc.options.fixed": "Fixed",
 
 	"ssbrc.player_profile.graphics": "Graphics",
 	"ssbrc.player_profile.graphics.description": "Controls the quality of certain visual effects.",

@@ -257,7 +257,6 @@
 	"ssbrc.options.off": "OFF",
 
 	"ssbrc.options.game_mode": "Modo de juego",
-	"ssbrc.options.game_mode.title": "Modo de juego: ",
 	"ssbrc.options.game_mode.description": "Controla cómo funcionará el juego.",
 	"ssbrc.options.game_mode.stock": "Por vidas",
 	"ssbrc.options.game_mode.stock.description": "En este modo, obtienes un número limitado de vidas. Cuando pierdes tu última vida, estás fuera del juego.",
@@ -265,10 +264,8 @@
 	"ssbrc.options.game_mode.time.description": "En este modo, nunca estás fuera del juego. En cambio, tienes una cierta cantidad de tiempo para conseguir tantos puntos como puedas.",
 
 	"ssbrc.options.stock_limit": "Vidas",
-	"ssbrc.options.stock_limit.title": "Vidas: ",
 	"ssbrc.options.stock_limit.description": "Controla cuántas vidas tienen los jugadores.",
 	"ssbrc.options.time_limit": "Tiempo",
-	"ssbrc.options.time_limit.title": "Tiempo: ",
 	"ssbrc.options.time_limit.description": "Controla cuánto durará el temporizador.",
 
 	"ssbrc.options.time_limit.1": "1 Minute",
@@ -295,7 +292,6 @@
 
 	"ssbrc.options.music": "Música",
 	"ssbrc.options.music.description": "Controla cómo se maneja la música personalizada.",
-	"ssbrc.options.music.title": "Música: ",
 	"ssbrc.options.music.loop": "Bucle",
 	"ssbrc.options.music.loop.description": "Elige una canción al azar y reprodúcela repetidamente.",
 	"ssbrc.options.music.shuffle": "Barajar",
