@@ -479,8 +479,7 @@
 				{
 					"name": "bone3",
 					"origin": [8, 3, 8],
-					"color": 0,
-					"children": []
+					"color": 0
 				},
 				{
 					"name": "bone2",
