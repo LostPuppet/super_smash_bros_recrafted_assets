@@ -60,6 +60,7 @@
 		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:fighters/zelda/items/weapons/spear/titanium" },
 
 		{ "predicate": { "custom_model_data": 100000 }, "model": "ssbrc:items/killing_edge/default" },
-		{ "predicate": { "custom_model_data": 100001 }, "model": "ssbrc:items/killing_edge/active" }
+		{ "predicate": { "custom_model_data": 100001 }, "model": "ssbrc:items/killing_edge/active" },
+		{ "predicate": { "custom_model_data": 100002 }, "model": "ssbrc:items/lips_stick" }
 	]
 }
