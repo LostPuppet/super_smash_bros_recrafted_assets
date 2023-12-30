@@ -1910,6 +1910,24 @@
 			}
 		]
 	},
+	"items.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"items.pickup": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/pickup",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"items.angel_feather.activate": {
 		"sounds":[
 			{
