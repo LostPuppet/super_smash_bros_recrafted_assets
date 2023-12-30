@@ -11,6 +11,7 @@
 		{ "predicate": { "custom_model_data": 5 }, "model": "ssbrc:items/cloaking_device" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "ssbrc:items/franklin_badge" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "ssbrc:items/maxim_tomato" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "ssbrc:items/special_flag" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:items/sandbag/default" }
 	]
 }
