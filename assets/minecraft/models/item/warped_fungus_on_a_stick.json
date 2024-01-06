@@ -16,6 +16,8 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "ssbrc:items/ray_gun" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "ssbrc:items/cracker_launcher" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "ssbrc:items/cd" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "ssbrc:stages/pyrosphere/fgii_graham/body" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "ssbrc:stages/pyrosphere/fgii_graham/propeller" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:items/sandbag/default" }
 	]
 }
