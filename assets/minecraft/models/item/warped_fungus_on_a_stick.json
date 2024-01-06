@@ -12,6 +12,10 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "ssbrc:items/franklin_badge" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "ssbrc:items/maxim_tomato" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "ssbrc:items/special_flag" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "ssbrc:items/super_mushroom" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "ssbrc:items/ray_gun" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "ssbrc:items/cracker_launcher" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "ssbrc:items/cd" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:items/sandbag/default" }
 	]
 }
