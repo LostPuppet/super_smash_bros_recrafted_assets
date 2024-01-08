@@ -601,6 +601,24 @@
 			}
 		]
 	},
+	"fighters.giegue.pk_beam.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/giegue/pk_beam/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.giegue.pk_beam.charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/giegue/pk_beam/charge",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.giegue.pk_freeze.activate": {
 		"sounds":[
 			{
@@ -1057,6 +1075,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:fighters/mario/fireball/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.mario.fireball.expire": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/mario/fireball/expire",
 				"stream": false,
 				"volume": 1.0
 			}
@@ -1721,6 +1748,15 @@
 			}
 		]
 	},
+	"fighters.super_mario_bros.death": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/super_mario_bros/death",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.super_mario_bros.stomp": {
 		"sounds":[
 			{
@@ -1901,6 +1937,42 @@
 			}
 		]
 	},
+	"fighters.zelda.rupee.down_end": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/zelda/rupee/down_end",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.zelda.rupee.down": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/zelda/rupee/down",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.zelda.rupee.up_end": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/zelda/rupee/up_end",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.zelda.rupee.up": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/zelda/rupee/up",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.shockwave": {
 		"sounds":[
 			{
@@ -1941,6 +2013,33 @@
 		"sounds":[
 			{
 				"name":"ssbrc:items/angel_feather/jump",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"items.cracker_launcher.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/cracker_launcher/activate",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"items.cracker_launcher.activate_last": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/cracker_launcher/activate_last",
+				"stream": false,
+				"volume": 1.0
+			}
+		]
+	},
+	"items.cracker_launcher.expire": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/cracker_launcher/expire",
 				"stream": false,
 				"volume": 1.0
 			}
