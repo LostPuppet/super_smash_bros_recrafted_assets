@@ -95,6 +95,9 @@
 		{ "predicate": { "custom_model_data": 451 }, "model": "ssbrc:fighters/hero/items/spells/zap" },
 		{ "predicate": { "custom_model_data": 452 }, "model": "ssbrc:fighters/hero/items/spells/zapple" },
 		{ "predicate": { "custom_model_data": 453 }, "model": "ssbrc:fighters/hero/items/spells/kazap" },
+		{ "predicate": { "custom_model_data": 454 }, "model": "ssbrc:fighters/hero/items/spells/accelerate" },
+		{ "predicate": { "custom_model_data": 455 }, "model": "ssbrc:fighters/hero/items/spells/acceleratle" },
+		{ "predicate": { "custom_model_data": 456 }, "model": "ssbrc:fighters/hero/items/spells/zoom" },
 
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:fighters/jigglypuff/items/hyper_voice/default" },
