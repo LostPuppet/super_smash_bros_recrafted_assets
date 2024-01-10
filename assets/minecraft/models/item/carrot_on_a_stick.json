@@ -254,6 +254,7 @@
 		{ "predicate": { "custom_model_data": 1726 }, "model": "ssbrc:fighters/wolf/items/wolf_slash/assault" },
 		{ "predicate": { "custom_model_data": 1727 }, "model": "ssbrc:fighters/wolf/items/wolf_slash/gold" },
 		{ "predicate": { "custom_model_data": 1728 }, "model": "ssbrc:fighters/wolf/items/blaster/gold" },
+		{ "predicate": { "custom_model_data": 1729 }, "model": "ssbrc:fighters/wolf/items/wolf_slash/starlink" },
 
 		{ "predicate": { "custom_model_data": 1741 }, "model": "ssbrc:fighters/yoshi/items/egg_green" },
 
