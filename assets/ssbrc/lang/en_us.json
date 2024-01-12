@@ -733,6 +733,7 @@
 	"ssbrc.tooltips.team_rocket.wobbuffet.destinyBond.description.3": "- Leaves you vulnerable for a few seconds",
 	"ssbrc.stages.pallet_town": "Pallet Town",
 	"ssbrc.stages.lake_of_rage": "Lake of Rage",
+	"ssbrc.stages.hoenn_pokemon_league": "Hoenn Pokémon League",
 	"ssbrc.stages.spear_pillar": "Spear Pillar",
 	"ssbrc.music.battle_lets_go_pikachu_eevee": "Battle! (Let's Go Pikachu / Eevee)",
 	"ssbrc.music.dialga_and_palkia_battle": "Dialga and Palkia Battle",
@@ -1140,6 +1141,7 @@
 	"ssbrc.fighters.steve.discardItem": "Discarded.",
 	"ssbrc.tooltips.steve.pickaxe.description.1": "] to mine for items",
 	"ssbrc.tooltips.steve.pickaxe.description.2": "- Taking damage will interrupt mining",
+	"ssbrc.stages.minecraft_world": "Minecraft World",
 
 	"ssbrc.series.kingdomHearts": "Kingdom Hearts",
 	"ssbrc.fighters.sora": "Sora",
