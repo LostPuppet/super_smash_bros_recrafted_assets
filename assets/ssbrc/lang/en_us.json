@@ -263,6 +263,8 @@
 	"ssbrc.options.game_mode.stock.enable": "[!] Stocks required",
 	"ssbrc.options.game_mode.time": "Time",
 	"ssbrc.options.game_mode.time.description": "In this mode, you are never out of the game. Instead, you have a certain amount of time to get as many points as you can.",
+	"ssbrc.options.game_mode.ctf": "CTF",
+	"ssbrc.options.game_mode.ctf.description": "In this mode, two teams compete to capture the other teams' flag as much as possible.",
 
 	"ssbrc.options.stock_limit": "Stock Limit",
 	"ssbrc.options.stock_limit.description": "Controls how many stocks players have.",
