@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:template/steve",
+	"textures": {
+		"base": "ssbrc:fighters/king_dedede/skins/default"
+	}
+}
