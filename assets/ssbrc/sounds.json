@@ -601,6 +601,24 @@
 			}
 		]
 	},
+	"fighters.giegue.pk_beam.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/giegue/pk_beam/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.giegue.pk_beam.charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/giegue/pk_beam/charge",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.giegue.pk_freeze.activate": {
 		"sounds":[
 			{
