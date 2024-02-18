@@ -16,6 +16,7 @@
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:fighters/greninja/skins/default_full" },
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/skins/default/full" },
 		{ "predicate": { "custom_model_data": 460 }, "model": "ssbrc:fighters/ice_climbers/skins/default/popo_full" },
+		{ "predicate": { "custom_model_data": 461 }, "model": "ssbrc:fighters/ice_climbers/skins/default/nana_full" },
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:fighters/jigglypuff/skins/default/full" },
 		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/skins/default/full" },
 		{ "predicate": { "custom_model_data": 660 }, "model": "ssbrc:fighters/king_dedede/skins/default_full" },
