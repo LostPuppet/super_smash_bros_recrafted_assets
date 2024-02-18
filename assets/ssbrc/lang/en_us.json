@@ -794,6 +794,7 @@
 	"ssbrc.music.brain_cleaner": "Brain Cleaner",
 
 	"ssbrc.series.iceClimber": "Ice Climber",
+	"ssbrc.fighters.ice_climbers": "Ice Climbers",
 	"ssbrc.stages.icicle_mountain": "Icicle Mountain",
 	"ssbrc.music.ice_climber_melee": "Ice Climber (Melee)",
 	"ssbrc.music.ice_climber_retro": "Ice Climber (Retro)",
@@ -862,6 +863,7 @@
 	"ssbrc.series.metalGear": "Metal Gear",
 	"ssbrc.fighters.snake": "Snake",
 	"ssbrc.fighters.snake.skin.iroquois_pliskin": "Iroquois Pliskin",
+	"ssbrc.fighters.snake.skin.old_snake": "Old Snake",
 	"ssbrc.fighters.snake.selectLoadout": "Select Loadout",
 	"ssbrc.fighters.snake.loadout.undo": "UNDO",
 	"ssbrc.fighters.snake.loadout.undoDescription": "Click here to undo this choice.",

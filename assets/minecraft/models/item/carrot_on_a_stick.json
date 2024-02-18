@@ -136,6 +136,10 @@
 		{ "predicate": { "custom_model_data": 732 }, "model": "ssbrc:fighters/link/items/master_sword/gold/spinning/default" },
 		{ "predicate": { "custom_model_data": 733 }, "model": "ssbrc:fighters/link/items/master_sword/gold/spinning/awakened" },
 
+		{ "predicate": { "custom_model_data": 760 }, "model": "ssbrc:fighters/lucario/skins/default" },
+		{ "predicate": { "custom_model_data": 761 }, "model": "ssbrc:fighters/lucario/items/force_palm" },
+		{ "predicate": { "custom_model_data": 762 }, "model": "ssbrc:fighters/lucario/items/aura_sphere" },
+
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:fighters/luigi/skins/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:fighters/luigi/items/ice_ball/default" },
 		{ "predicate": { "custom_model_data": 822 }, "model": "ssbrc:fighters/luigi/items/ice_ball/gold" },
