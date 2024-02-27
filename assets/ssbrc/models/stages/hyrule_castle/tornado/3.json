@@ -67,7 +67,6 @@
 		{
 			"name": "tornado",
 			"origin": [8, -6.04123, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "group3",

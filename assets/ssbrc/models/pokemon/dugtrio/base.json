@@ -840,7 +840,6 @@
 		{
 			"name": "base",
 			"origin": [8, 1.25, 8],
-			"color": 0,
 			"children": [
 				0,
 				1,

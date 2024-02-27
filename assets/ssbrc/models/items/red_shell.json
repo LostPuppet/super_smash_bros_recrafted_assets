@@ -410,7 +410,6 @@
 		{
 			"name": "bone4",
 			"origin": [8.2, 0, 8],
-			"color": 0,
 			"children": [
 				0,
 				1,
@@ -418,13 +417,11 @@
 				{
 					"name": "bone",
 					"origin": [7.9, 0.21213, 8.78198],
-					"color": 0,
 					"children": [3]
 				},
 				{
 					"name": "bone2",
 					"origin": [7.9, 0.21213, 9.21802],
-					"color": 0,
 					"children": [4]
 				},
 				5,
@@ -441,7 +438,6 @@
 				{
 					"name": "bone3",
 					"origin": [8.25, 5.45685, 10.79203],
-					"color": 0,
 					"children": [16]
 				},
 				17,

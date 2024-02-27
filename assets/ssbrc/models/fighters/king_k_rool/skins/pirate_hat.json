@@ -79,14 +79,12 @@
 			}
 		}
 	],
-	"display": {},
 	"groups": [
 		0,
 		1,
 		{
 			"name": "pirate_hat",
 			"origin": [8, 9.75, 8],
-			"color": 0,
 			"nbt": "{}",
 			"children": [2, 3, 4, 5, 6]
 		}

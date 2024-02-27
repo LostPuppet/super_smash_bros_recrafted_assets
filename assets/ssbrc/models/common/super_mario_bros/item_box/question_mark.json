@@ -57,12 +57,10 @@
 		{
 			"name": "bone3",
 			"origin": [8, 5, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "bone2",
 					"origin": [8, 13, 8],
-					"color": 0,
 					"children": [0]
 				}
 			]

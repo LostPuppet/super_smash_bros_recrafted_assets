@@ -394,7 +394,6 @@
 		{
 			"name": "bone",
 			"origin": [8, 0, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "bone2",
@@ -404,32 +403,27 @@
 				{
 					"name": "bone3",
 					"origin": [11.736, 6.12155, 8],
-					"color": 0,
 					"children": [0, 1, 2, 3]
 				},
 				4,
 				{
 					"name": "bone4",
 					"origin": [5.188, 3.2545, 8.03515],
-					"color": 0,
 					"children": [5, 6, 7, 8]
 				},
 				{
 					"name": "bone6",
 					"origin": [10.812, 3.2545, 8.03515],
-					"color": 0,
 					"children": [9, 10, 11, 12]
 				},
 				{
 					"name": "bone5",
 					"origin": [7.088, 3.3545, 8.03515],
-					"color": 0,
 					"children": [13, 14, 15, 16]
 				},
 				{
 					"name": "bone7",
 					"origin": [8.912, 3.3545, 8.03515],
-					"color": 0,
 					"children": [17, 18, 19, 20]
 				},
 				21,

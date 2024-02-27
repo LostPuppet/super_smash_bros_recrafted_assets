@@ -395,43 +395,36 @@
 		{
 			"name": "Mouth",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [0, 1]
 		},
 		{
 			"name": "Eyes",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [2, 3]
 		},
 		{
 			"name": "Brow",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [4, 5, 6, 7, 8]
 		},
 		{
 			"name": "MouthOuter",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [9, 10, 11, 12, 13, 14, 15, 16, 17]
 		},
 		{
 			"name": "Teeth",
 			"origin": [8, 1, 11.125],
-			"color": 0,
 			"children": [18, 19, 20, 21]
 		},
 		{
 			"name": "Tongue",
 			"origin": [8, 1, 11.125],
-			"color": 0,
 			"children": [22, 23, 24]
 		},
 		{
 			"name": "Body",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [25, 26, 27, 28, 29, 30, 31]
 		}
 	]

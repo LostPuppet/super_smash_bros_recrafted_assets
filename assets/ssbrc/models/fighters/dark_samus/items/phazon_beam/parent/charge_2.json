@@ -911,7 +911,6 @@
 		{
 			"name": "PowerBeam-1",
 			"origin": [9, 13.60819, 11.62484],
-			"color": 0,
 			"children": [
 				{
 					"name": "group",

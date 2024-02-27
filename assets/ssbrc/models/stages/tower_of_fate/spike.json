@@ -2387,7 +2387,6 @@
 		{
 			"name": "middle",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				0,
 				1,
@@ -2455,7 +2454,6 @@
 		{
 			"name": "middle",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				61,
 				62,
@@ -2523,7 +2521,6 @@
 		{
 			"name": "bottom",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				122,
 				123,

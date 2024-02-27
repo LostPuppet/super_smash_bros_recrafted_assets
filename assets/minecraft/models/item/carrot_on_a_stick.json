@@ -244,6 +244,8 @@
 		{ "predicate": { "custom_model_data": 1585 }, "model": "minecraft:item/diamond_pickaxe" },
 		{ "predicate": { "custom_model_data": 1586 }, "model": "minecraft:item/netherite_pickaxe" },
 
+		{ "predicate": { "custom_model_data": 1620 }, "model": "ssbrc:fighters/terry/skins/default" },
+
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:fighters/wolf/skins/default" },
 		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:fighters/wolf/items/wolf_slash/default" },
 		{ "predicate": { "custom_model_data": 1722 }, "model": "ssbrc:fighters/wolf/items/blaster/default" },
@@ -258,6 +260,8 @@
 		{ "predicate": { "custom_model_data": 1741 }, "model": "ssbrc:fighters/yoshi/items/egg_green" },
 
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/skins/default" },
+
+
 
 		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:fighters/altered_beast/skins/default/centurion" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:fighters/altered_beast/items/waredragon/electrocution" },
@@ -366,6 +370,8 @@
 
 		{ "predicate": { "custom_model_data": 9064 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/bomb/stowed" },
 
+
+
 		{ "predicate": { "custom_model_data": 50003 }, "model": "ssbrc:pokemon/type_icons/electric/default" },
 		{ "predicate": { "custom_model_data": 50006 }, "model": "ssbrc:pokemon/type_icons/fire/default" },
 		{ "predicate": { "custom_model_data": 50008 }, "model": "ssbrc:pokemon/type_icons/ghost/default" },
@@ -382,9 +388,13 @@
 		{ "predicate": { "custom_model_data": 60013 }, "model": "ssbrc:pokemon/type_icons/poison/disabled" },
 		{ "predicate": { "custom_model_data": 60018 }, "model": "ssbrc:pokemon/type_icons/water/disabled" },
 
+
+
 		{ "predicate": { "custom_model_data": 9999988 }, "model": "ssbrc:inventory_icons/skin_options" },
 		{ "predicate": { "custom_model_data": 9999989 }, "model": "minecraft:item/written_book" },
 		{ "predicate": { "custom_model_data": 9999990 }, "model": "ssbrc:inventory_icons/selector" },
+
+
 
 		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:team_flags/red" },
 		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:team_flags/blue" },

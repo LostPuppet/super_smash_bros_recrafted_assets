@@ -107,43 +107,36 @@
 		{
 			"name": "head",
 			"origin": [8, 24, 8],
-			"color": 0,
 			"children": [0]
 		},
 		{
 			"name": "headwear",
 			"origin": [8, 24, 8],
-			"color": 0,
 			"children": [1]
 		},
 		{
 			"name": "body",
 			"origin": [8, 24, 8],
-			"color": 0,
 			"children": [2]
 		},
 		{
 			"name": "left_arm",
 			"origin": [3, 22, 8],
-			"color": 0,
 			"children": [3]
 		},
 		{
 			"name": "right_arm",
 			"origin": [13, 22, 8],
-			"color": 0,
 			"children": [4]
 		},
 		{
 			"name": "left_leg",
 			"origin": [6, 12, 8.1],
-			"color": 0,
 			"children": [5]
 		},
 		{
 			"name": "right_leg",
 			"origin": [10, 12, 8.1],
-			"color": 0,
 			"children": [6]
 		}
 	]

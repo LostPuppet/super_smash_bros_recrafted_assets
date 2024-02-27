@@ -165,7 +165,6 @@
 		{
 			"name": "steve",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"nbt": "{}",
 			"children": [3, 4, 5, 6, 7, 8]
 		},

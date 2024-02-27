@@ -258,12 +258,10 @@
 		{
 			"name": "blinky",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "body",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 				},
 				{
@@ -275,7 +273,6 @@
 				{
 					"name": "pupils",
 					"origin": [5.2, 4.09167, 7.975],
-					"color": 0,
 					"children": [13, 14]
 				}
 			]

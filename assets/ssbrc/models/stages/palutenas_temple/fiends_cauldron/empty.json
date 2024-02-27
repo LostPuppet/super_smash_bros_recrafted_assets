@@ -737,12 +737,10 @@
 		{
 			"name": "caldero",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "base",
 					"origin": [8, 8, 8],
-					"color": 0,
 					"children": [
 						0,
 						1,
@@ -775,19 +773,16 @@
 				{
 					"name": "calavera",
 					"origin": [8, 8, 8],
-					"color": 0,
 					"children": [26, 27, 28, 29, 30, 31, 32, 33, 34]
 				},
 				{
 					"name": "cuerno",
 					"origin": [2.12278, 8.6309, 1.55],
-					"color": 0,
 					"children": [35, 36, 37, 38, 39, 40]
 				},
 				{
 					"name": "cuerno",
 					"origin": [2.12278, 8.6309, 1.55],
-					"color": 0,
 					"children": [41, 42, 43, 44, 45, 46, 47]
 				}
 			]

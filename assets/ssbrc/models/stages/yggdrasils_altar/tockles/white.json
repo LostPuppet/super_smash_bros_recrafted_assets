@@ -305,21 +305,18 @@
 		{
 			"name": "arm_left",
 			"origin": [-2.72398, 0.01347, 1],
-			"color": 0,
 			"nbt": "{}",
 			"children": [5, 6, 7, 8]
 		},
 		{
 			"name": "arm_right",
 			"origin": [-2.72398, 0.01347, 1],
-			"color": 0,
 			"nbt": "{}",
 			"children": [9, 10, 11, 12]
 		},
 		{
 			"name": "bag",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"nbt": "{}",
 			"children": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 		}

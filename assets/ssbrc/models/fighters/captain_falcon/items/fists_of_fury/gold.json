@@ -238,12 +238,10 @@
 		{
 			"name": "garra",
 			"origin": [7.436, 14.6034, 10.31651],
-			"color": 0,
 			"children": [
 				{
 					"name": "hand",
 					"origin": [7.491, 9.3184, 4.26651],
-					"color": 0,
 					"children": [
 						{
 							"name": "group",

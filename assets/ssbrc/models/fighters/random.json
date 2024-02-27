@@ -1465,7 +1465,6 @@
 		{
 			"name": "question_mark",
 			"origin": [8, 7.89474, 15],
-			"color": 0,
 			"nbt": "{}",
 			"children": [
 				0,

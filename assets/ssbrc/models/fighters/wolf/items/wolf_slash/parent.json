@@ -582,12 +582,10 @@
 		{
 			"name": "claw",
 			"origin": [8.1987, 12.30243, 12.36941],
-			"color": 0,
 			"children": [
 				{
 					"name": "hand",
 					"origin": [8.2537, 7.01743, 6.31941],
-					"color": 0,
 					"children": [
 						0,
 						1,
@@ -608,8 +606,7 @@
 						{
 							"name": "group",
 							"origin": [7.0987, 5.31243, 6.67441],
-							"color": 0,
-							"children": [16, 17, 18]
+									"children": [16, 17, 18]
 						}
 					]
 				},

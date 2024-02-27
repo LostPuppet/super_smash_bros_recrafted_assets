@@ -408,41 +408,34 @@
 			}
 		}
 	],
-	"display": {},
 	"groups": [
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				{
 					"name": "spike1",
 					"origin": [10.98954, 4.32344, 10.26575],
-					"color": 0,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "spike2",
 					"origin": [10.98954, 4.32344, 10.26575],
-					"color": 0,
 					"children": [3, 4, 5]
 				},
 				{
 					"name": "spike3",
 					"origin": [10.14742, 3.30009, 6.02575],
-					"color": 0,
 					"children": [6, 7]
 				},
 				{
 					"name": "spike4",
 					"origin": [10.14742, 3.30009, 6.02575],
-					"color": 0,
 					"children": [8, 9]
 				},
 				{
 					"name": "membrane",
 					"origin": [8, 6.08, 8.4275],
-					"color": 0,
 					"children": [10, 11, 12, 13, 14, 15, 16]
 				},
 				17,

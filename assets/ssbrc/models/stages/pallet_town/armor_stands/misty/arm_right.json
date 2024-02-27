@@ -240,13 +240,11 @@
 		{
 			"name": "RightArm",
 			"origin": [7.5, 8, 8],
-			"color": 0,
 			"children": [0, 1]
 		},
 		{
 			"name": "fishing_rod_cast",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 		}
 	]

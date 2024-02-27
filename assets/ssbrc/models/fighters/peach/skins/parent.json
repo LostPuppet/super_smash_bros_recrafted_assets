@@ -290,7 +290,6 @@
 		{
 			"name": "Head",
 			"origin": [8, 4.5, 8],
-			"color": 0,
 			"children": [0, 1]
 		},
 		2,

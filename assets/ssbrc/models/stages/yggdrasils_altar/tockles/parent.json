@@ -171,13 +171,11 @@
 		{
 			"name": "arm_left",
 			"origin": [-2.72398, 0.01347, 1],
-			"color": 0,
 			"children": [5, 6, 7, 8]
 		},
 		{
 			"name": "arm_right",
 			"origin": [-2.72398, 0.01347, 1],
-			"color": 0,
 			"children": [9, 10, 11, 12]
 		}
 	]

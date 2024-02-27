@@ -798,13 +798,11 @@
 		{
 			"name": "RightArm",
 			"origin": [5, 22, 0],
-			"color": 0,
 			"children": []
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [
 				0,
 				1,
@@ -841,7 +839,6 @@
 				{
 					"name": "group",
 					"origin": [7.886, 3.0845, 3.602],
-					"color": 0,
 					"children": [
 						32,
 						33,
@@ -850,14 +847,12 @@
 						{
 							"name": "group",
 							"origin": [5.363, 7.15018, 7.04975],
-							"color": 0,
-							"children": [36, 37, 38, 39, 40]
+									"children": [36, 37, 38, 39, 40]
 						},
 						{
 							"name": "group",
 							"origin": [5.363, 7.15018, 7.04975],
-							"color": 0,
-							"children": [41, 42, 43, 44, 45]
+									"children": [41, 42, 43, 44, 45]
 						},
 						46,
 						47,
@@ -869,7 +864,6 @@
 				{
 					"name": "group",
 					"origin": [8.25, 3.496, -1.699],
-					"color": 0,
 					"children": [51, 52, 53, 54, 55, 56, 57]
 				}
 			]
