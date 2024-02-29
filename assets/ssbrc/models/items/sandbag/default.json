@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:items/sandbag/parent",
 	"textures": {
-		"0": "ssbrc:items/sandbag/default"
+		"base": "ssbrc:items/sandbag/default"
 	}
 }
