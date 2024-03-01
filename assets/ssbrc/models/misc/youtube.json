@@ -1,0 +1,6 @@
+{
+	"parent": "ssbrc:misc/logo",
+	"textures": {
+		"base": "ssbrc:misc/youtube"
+	}
+}
