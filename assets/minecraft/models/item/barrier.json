@@ -222,6 +222,9 @@
 
 		{ "predicate": { "custom_model_data": 1620 }, "model": "ssbrc:fighters/terry/skins/default" },
 		{ "predicate": { "custom_model_data": 1621 }, "model": "ssbrc:fighters/terry/skins/gold" },
+		{ "predicate": { "custom_model_data": 1622 }, "model": "ssbrc:fighters/terry/skins/king_of_fighters" },
+		{ "predicate": { "custom_model_data": 1623 }, "model": "ssbrc:fighters/terry/skins/mark_of_the_wolves" },
+		{ "predicate": { "custom_model_data": 1624 }, "model": "ssbrc:fighters/terry/skins/mirror" },
 
 		{ "predicate": { "custom_model_data": 1640 }, "model": "ssbrc:fighters/toon_link/skins/default" },
 		{ "predicate": { "custom_model_data": 1641 }, "model": "ssbrc:fighters/toon_link/skins/gold" },
